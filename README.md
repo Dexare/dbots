@@ -1,4 +1,5 @@
-# @dexare/dbots
+<img src="https://get.snaz.in/AFabfTm.png" height="50">
+
 A [Dexare](https://github.com/Dexare/Dexare) module for [dbots](https://dbots.js.org).
 
 ```sh
