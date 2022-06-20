@@ -31,7 +31,7 @@
     "*.ts": "eslint --fix"
   },
   "dependencies": {
-    "dbots": "^10.0.0",
+    "dbots": "^11.0.0",
     "dexare": "^3.0.0"
   },
   "devDependencies": {
